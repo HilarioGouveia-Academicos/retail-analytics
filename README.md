@@ -155,7 +155,13 @@ retail_analytics/
 
 ---
 
-## 7. Autor
+## 7. Backend
+
+O tratamento dos dados foi realizado no notebook: `eda.ipynb` (Backend)
+
+---
+
+## 8. Autor
 
 **Hilário Félix de Gouveia Junior**
 
@@ -165,13 +171,3 @@ retail_analytics/
 
 ---
 *Documento homologado para apresentação executiva e governança técnica da equipe de Engenharia de Dados & Analytics.*
-
-
-
-echo "# retail-analytics" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/HilarioGouveia-Academicos/retail-analytics.git
-git push -u origin main
