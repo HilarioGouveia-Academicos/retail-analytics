@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+src/retail_analytics/config.py
+src/retail_analytics/data_loader.py
+src/retail_analytics/metrics.py
+src/retail_analytics.egg-info/PKG-INFO
+src/retail_analytics.egg-info/SOURCES.txt
+src/retail_analytics.egg-info/dependency_links.txt
+src/retail_analytics.egg-info/requires.txt
+src/retail_analytics.egg-info/top_level.txt
+src/retail_analytics/agent/document_reader.py
+src/retail_analytics/agent/prompt_gallery.py
+src/retail_analytics/agent/tools.py
+tests/test_metrics.py

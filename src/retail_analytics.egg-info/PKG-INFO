@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: retail_analytics
+Version: 0.1.0
+Requires-Dist: pandas>=2.0.0
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: streamlit>=1.30.0
+Requires-Dist: plotly>=5.18.0

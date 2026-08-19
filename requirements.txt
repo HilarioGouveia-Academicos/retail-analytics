@@ -1,5 +1,19 @@
+# --- Core & Manipulação de Dados ---
 pandas>=2.0.0
 numpy>=1.24.0
+
+# --- Visualização & Dashboard ---
 streamlit>=1.30.0
 plotly>=5.18.0
+
+# --- Testes Unitários ---
 pytest>=8.0.0
+
+# --- Módulo Agêntico & Leitura de Documentos (Fase 1) ---
+pypdf>=4.0.0
+
+# --- Provedor de LLM (Escolha um ou ambos) ---
+google-genai>=0.1.0   # Se for usar Gemini
+openai>=1.0.0         # Se for usar OpenAI / DeepSeek
+
+python-dotenv>=1.0.0
